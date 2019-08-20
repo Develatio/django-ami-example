@@ -1,0 +1,1 @@
+Please go to https://aws.develat.io/django for more information
