@@ -13,3 +13,6 @@ pip3 install -r requirements.txt
 
 # Maybe run migrations?
 # python3 manage.py migrate
+
+# We want to restart uWSGI after installing our dependencies
+sudo systemctl restart uwsgi
