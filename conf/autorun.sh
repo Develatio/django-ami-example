@@ -6,7 +6,7 @@
 cd /var/www/webapp/src
 
 # Install some dependencies
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 
 # Maybe collect statics?
 #python3 manage.py collectstatic --no-input
